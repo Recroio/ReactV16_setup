@@ -1,4 +1,3 @@
-
-export default URL={
-    fetchdata:'',
-}
+export default (URL = {
+  fetchdata: ""
+});
