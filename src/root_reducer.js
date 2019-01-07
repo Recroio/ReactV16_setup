@@ -1,7 +1,7 @@
 import { combineReducers } from 'redux';
-import poster from './App/poster/poster_reducer';
+import landing from './App/landing/landing_reducer';
 
 const rootReducer=combineReducers({
-    poster,
+    landing,
 });
 export default rootReducer;
