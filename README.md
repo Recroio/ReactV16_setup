@@ -4,4 +4,4 @@
 
 # npm start
 
-##If error occur run : npm install babel-preset-es2015
+## If error occur run : npm install babel-preset-es2015
